@@ -1,3 +1,5 @@
 
 .vs/Py_Server_US/v17/.suo
 .vs/Py_Server_US/FileContentIndex/read.lock
+*.dll
+*.exe
